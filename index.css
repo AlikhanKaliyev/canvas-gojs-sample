@@ -1,0 +1,9 @@
+#myPaletteDiv{
+    border-right: 1px solid #000;
+}
+
+.lel{
+    width:300px;
+    display: flex;
+    flex-direction: column;
+}
